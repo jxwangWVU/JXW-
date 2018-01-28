@@ -1,5 +1,7 @@
 this is 2nd file.
 something is about venus...
 modify again ... JX
+<<<<<<< HEAD
 
 I added one line
+
